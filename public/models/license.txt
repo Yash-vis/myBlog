@@ -1,0 +1,11 @@
+Model Information:
+* title:	The House in the Night
+* source:	https://sketchfab.com/3d-models/the-house-in-the-night-d55914ef314b4703b2d356149265224a
+* author:	kayacutt (https://sketchfab.com/kayacutt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The House in the Night" (https://sketchfab.com/3d-models/the-house-in-the-night-d55914ef314b4703b2d356149265224a) by kayacutt (https://sketchfab.com/kayacutt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
