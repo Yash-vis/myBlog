@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import { useSession } from "next-auth/react";
 import Navbar from "../components/Navbar";
+import Image from "next/image";
 
 export default function Posts() {
   const { data: session } = useSession();
