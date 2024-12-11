@@ -74,7 +74,7 @@ export default function Posts() {
           </div>
         ) : (
           <div className="text-center">
-            <p className="text-lg font-medium text-gray-700">Please log in to view posts.</p>
+            <p className="text-lg font-medium text-white">Please log in to view posts.</p>
           </div>
         )}
       </div>
